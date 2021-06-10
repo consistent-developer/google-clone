@@ -36,7 +36,6 @@ const Header = () => {
             Search
           </button>
         </form>
-        <Avatar className='ml-auto' url='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUWvuA2WUI2zNfh1yQOHEMrai1SA3Z2xlrlQ&usqp=CAU' />
       </div>
 
       <HeaderOptions />
